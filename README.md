@@ -24,7 +24,7 @@ new OptionBar({
 		backgroundColor: '#CCF',
 		barColor: '#99F',
 		backgroundImageUrl: 'background.png', // a static background image
-		backgroundImageUrls: ['switch_off.png', 'switch_on.png'],
+		backgroundImageUrls: ['switch_off.png', 'switch_on.png'], // changes background image to selction's index
 		  
 	// if none of the following are specified, defaults will be used.
 	// if only some are specified, the rest will be infered from the given information.
